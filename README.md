@@ -8,7 +8,7 @@
 
 - I'm a high school student now.
 
-- My old account is [@lidarbtc](https://github.com/lidarbtc/lidarbtc)
+- My old account is [@lidarbtc](https://github.com/lidarbtc/lidarbtc) (I lost my account)
 
 ## Tech stack
 
